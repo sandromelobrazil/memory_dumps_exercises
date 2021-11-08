@@ -1,0 +1,3 @@
+MD5 (dumpmemoria1.vmem) = c91eaa8273f22b41ba2503990e8482a0
+MD5 (dumpmemoria2.vmem) = d4f4dab735cb682f36dedb9ba17e6ff6
+MD5 (dumpmemoria3.vmem) = b6e4817d7c1aea69bbd8b19b42075681
